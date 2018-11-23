@@ -1,0 +1,16 @@
+C:\Users\dongbang\source\repos\Apptest1\Apptest1\obj\Debug\Apptest1.csprojAssemblyReference.cache
+C:\Users\dongbang\source\repos\Apptest1\Apptest1\obj\Debug\MainWindow.g.cs
+C:\Users\dongbang\source\repos\Apptest1\Apptest1\obj\Debug\App.g.cs
+C:\Users\dongbang\source\repos\Apptest1\Apptest1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dongbang\source\repos\Apptest1\Apptest1\obj\Debug\Apptest1_MarkupCompile.cache
+C:\Users\dongbang\source\repos\Apptest1\Apptest1\obj\Debug\Apptest1_MarkupCompile.lref
+C:\Users\dongbang\source\repos\Apptest1\Apptest1\bin\Debug\Apptest1.exe.config
+C:\Users\dongbang\source\repos\Apptest1\Apptest1\bin\Debug\Apptest1.exe
+C:\Users\dongbang\source\repos\Apptest1\Apptest1\bin\Debug\Apptest1.pdb
+C:\Users\dongbang\source\repos\Apptest1\Apptest1\obj\Debug\MainWindow.baml
+C:\Users\dongbang\source\repos\Apptest1\Apptest1\obj\Debug\Apptest1.g.resources
+C:\Users\dongbang\source\repos\Apptest1\Apptest1\obj\Debug\Apptest1.Properties.Resources.resources
+C:\Users\dongbang\source\repos\Apptest1\Apptest1\obj\Debug\Apptest1.csproj.GenerateResource.cache
+C:\Users\dongbang\source\repos\Apptest1\Apptest1\obj\Debug\Apptest1.csproj.CoreCompileInputs.cache
+C:\Users\dongbang\source\repos\Apptest1\Apptest1\obj\Debug\Apptest1.exe
+C:\Users\dongbang\source\repos\Apptest1\Apptest1\obj\Debug\Apptest1.pdb
